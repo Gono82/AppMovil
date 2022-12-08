@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919555711055",
+    "project_id": "localtravel-dd16d",
+    "storage_bucket": "localtravel-dd16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919555711055:android:6aee9a6671ee5b8c79ca3a",
+        "android_client_info": {
+          "package_name": "com.example.localtravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919555711055-n0nkv9unu02nsef8scvqh9qgjb6muf0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localtravel",
+            "certificate_hash": "920f6da6d6ec6c9ece97d447bf31ef22db9c02e2"
+          }
+        },
+        {
+          "client_id": "919555711055-cvfiksuc8rsench5pgu52ukhtdvdmde7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWij9RYl2CZ1YdvOilpKCCXdb5aVyCC5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919555711055-cvfiksuc8rsench5pgu52ukhtdvdmde7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
